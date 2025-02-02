@@ -1,0 +1,168 @@
+[
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], COUNTRY:Ukraine",
+            "[2], PERSON:Vladimir Putin",
+            "[3], COUNTRY:Russia",
+            "[2] NEGOTIATED WITH [1]",
+            "[2] OPPOSED [1]",
+            "[2] OPPOSED [3]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], EVENT:drone attack",
+            "[3], LOCATION:Moscow",
+            "[2] OCCURRED [3]",
+            "[1] REFERENCE [2]",
+            "[2] ATTACKED [3]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], WEAPON:drone",
+            "[2] ATTACKED [3]",
+            "[3], LOCATION:Civilian targets",
+            "[1] NEGOTIATED WITH [2]",
+            "[2] ATTACKED [3]",
+            "[3], ORGANIZATION:Civilian targets",
+            "[4], EVENT:drone attack",
+            "[4] OCCURRED [5]",
+            "[5], LOCATION:alleged target",
+            "[1] INVOLVED_IN [4]",
+            "[6], MILITARY UNIT:MILITARY UNIT",
+            "[6] DEFENDED [3]",
+            "[6] OPPOSED [4]",
+            "[6] SUPPORTED [3]",
+            "[7], COUNTRY:COUNTRY",
+            "[7] INVOLVED_IN [4]",
+            "[7] DEFENDED [3]",
+            "[7] OPPOSED [4]",
+            "[7] SUPPORTED [3]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], EVENT:drone attack",
+            "[3], LOCATION:Moscow",
+            "[1] ANNOUNCED [4]",
+            "[4], EVENT:Boosting Moscow's air defenses",
+            "[4] DEFENDED [3]",
+            "[5], ORGANIZATION:Moscow's air defenses",
+            "[5] DEFENDED [3]",
+            "[1] SUPPORTED [5]",
+            "[5] DEFENDED [3]",
+            "[5] DEFENDED [2]",
+            "[5] DEFENDED [1]",
+            "[5] DEFENDED [2]",
+            "[5] DEFENDED [4]",
+            "[5] DEFENDED [5]",
+            "[5] DEFENDED [6]",
+            "[6], LOCATION:Moscow's airspace"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], COUNTRY:Ukraine",
+            "[1] OPPOSED [2]",
+            "[1] THREATENED [2]",
+            "[3], EVENT:Retaliation",
+            "[1] NEGOTIATED WITH [2]",
+            "[3] INVOLVED_IN [1]",
+            "[3] INVOLVED_IN [2]",
+            "[2] ATTACKED [1]",
+            "[1] DEFENDED [2]",
+            "[1] SUPPORTED [2]",
+            "[1] OPPOSED [2]",
+            "[3] OCCURRED [1]",
+            "[3] OCCURRED [2]"
+        ]
+    },
+    {
+        "timestamp": "After the collapse of the Soviet Union",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], ORGANIZATION:Soviet Union",
+            "[3], COUNTRY:Russian Federation",
+            "[4], COUNTRY:Ukraine",
+            "[1] OPPOSED [2]",
+            "[3] OPPOSED [4]",
+            "[1] OPPOSED [3]",
+            "[3] OPPOSED [4]",
+            "[5], EVENT:Competition between the Russian Federation and Ukraine",
+            "[5] OCCURRED [3]",
+            "[5] OCCURRED [4]",
+            "[1] OPPOSED [5]",
+            "[3] OPPOSED [4]",
+            "[1] OPPOSED [5]",
+            "[3] OPPOSED [5]",
+            "[5] INVOLVED_IN [3]",
+            "[5] INVOLVED_IN [4]",
+            "[3] OPPOSED [5]",
+            "[4] OPPOSED [5]",
+            "[5] INVOLVED_IN [3]",
+            "[5] INVOLVED_IN [4]",
+            "[3] OPPOSED [5]",
+            "[4] OPPOSED [5]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], LOCATION:Ukraine",
+            "[3], ORGANIZATION:west",
+            "[1] CLAIMED [4]",
+            "[4], EVENT:Anti-Russian sentiment",
+            "[4] CREATED_IN [2]",
+            "[3] SUPPORTED [4]",
+            "[5], COUNTRY:Russia",
+            "[4] OPPOSED [5]",
+            "[3] NEGOTIATED [1]",
+            "[4] INVOLVED_IN [2]",
+            "[1] OPPOSED [3]"
+        ]
+    },
+    {
+        "timestamp": "After the collapse of the Soviet Union",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], ORGANIZATION:NATO",
+            "[3], EVENT:Broken promise",
+            "[1] MENTIONED [3]",
+            "[2] INVOLVED_IN [3]",
+            "[4], LOCATION:east",
+            "[3] INVOLVED_IN [2]",
+            "[3] INVOLVED_IN [4]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], COUNTRY:Ukraine",
+            "[2], PERSON:Putin",
+            "[3], ORGANIZATION:NATO",
+            "[2] NEGOTIATED [1]",
+            "[3] SUPPORTED [1]",
+            "[2] NEGOTIATED [3]",
+            "[1] OPPOSED [3]",
+            "[4], EVENT:NATO membership",
+            "[4] OCCURRED ON [1]",
+            "[2] NEGOTIATED [4]",
+            "[3] SUPPORTED [4]",
+            "[1] OPPOSED [4]",
+            "[2] NEGOTIATED [4]",
+            "[3] SUPPORTED [1]",
+            "[1] OPPOSED [3]"
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "timestamp": "2023-05-30T17:47:04",
+        "triplets": [
+            "[1], COUNTRY:Ukraine",
+            "[2], PERSON:Vladimir Putin",
+            "[3], COUNTRY:Russia",
+            "[2] ACCUSED [1]",
+            "[2] ACCUSED [1] OF TRYING TO INTIMIDATE CIVILIANS",
+            "[2] ACCUSED [1] OF DRONE ATTACK"
+        ]
+    },
+    {
+        "timestamp": "2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Vladimir Putin",
+            "[2], EVENT:drone attack",
+            "[3], LOCATION:Moscow",
+            "[2] OCCURRED IN [3]",
+            "[1] REFERENCED [2]",
+            "[2] TARGETED [3]"
+        ]
+    },
+    {
+        "timestamp": "2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Vladimir Putin",
+            "[2], WEAPON:drone",
+            "[2] USED IN [3]",
+            "[3], LOCATION:Civilian targets",
+            "[1] ACCUSED [4] OF USING [2]",
+            "[4], COUNTRY:Ukraine",
+            "[2] TARGETED [3]",
+            "[3], ORGANIZATION:Civilian targets"
+        ]
+    },
+    {
+        "timestamp": "2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Vladimir Putin",
+            "[2], EVENT:drone attack",
+            "[3], LOCATION:Moscow",
+            "[1] ANNOUNCED [4]",
+            "[4], EVENT:Boosting Moscow's air defenses",
+            "[4] TO DEFEND [3]",
+            "[5], ORGANIZATION:Moscow's air defenses",
+            "[5] TO DEFEND [3]",
+            "[1] SUPPORTED [5]",
+            "[5] TO DEFEND [3]"
+        ]
+    },
+    {
+        "timestamp": "2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Vladimir Putin",
+            "[2], COUNTRY:Ukraine",
+            "[1] OPPOSED [2]",
+            "[1] THREATENED RETALIATION AGAINST [2]",
+            "[3], EVENT:Retaliation",
+            "[1] ANNOUNCED [3]",
+            "[3] INVOLVED [1]",
+            "[3] AGAINST [2]",
+            "[2] ALLEGEDLY ATTACKED [1]"
+        ]
+    },
+    {
+        "timestamp": "1991-12-26",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], ORGANIZATION:Soviet Union",
+            "[3], COUNTRY:Russian Federation",
+            "[4], COUNTRY:Ukraine",
+            "[2] COLLAPSED",
+            "[3] FORMED",
+            "[4] FORMED"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], LOCATION:Ukraine",
+            "[3], ORGANIZATION:West",
+            "[1] CLAIMED [4]",
+            "[4], EVENT:Anti-Russian sentiment",
+            "[4] CREATED_IN [2]",
+            "[3] SUPPORTED [4]",
+            "[5], COUNTRY:Russia",
+            "[4] OPPOSED [5]",
+            "[3] NEGOTIATED [1]",
+            "[4] INVOLVED_IN [2]",
+            "[1] OPPOSED [3]"
+        ]
+    },
+    {
+        "timestamp": "1991-12-26",
+        "triplets": [
+            "[1], PERSON:Putin",
+            "[2], ORGANIZATION:NATO",
+            "[3], EVENT:Broken promise",
+            "[1] MENTIONED [3]",
+            "[2] INVOLVED_IN [3]",
+            "[4], LOCATION:East",
+            "[3] INVOLVED_IN [2]",
+            "[3] INVOLVED_IN [4]"
+        ]
+    },
+    {
+        "timestamp": "d2023-05-30T17:47:04",
+        "triplets": [
+            "[1], COUNTRY:Ukraine",
+            "[2], PERSON:Putin",
+            "[3], ORGANIZATION:NATO",
+            "[2] ACCUSED [1]",
+            "[2] ACCUSED [1] OF INTENT TO INTIMIDATE CIVILIANS",
+            "[3] SUPPORTED [1]",
+            "[2] NEGOTIATED [3]",
+            "[1] OPPOSED [3]",
+            "[4], EVENT:NATO membership",
+            "[4] OCCURRED ON [1]",
+            "[2] OPPOSED [4]",
+            "[3] SUPPORTED [4]",
+            "[1] OPPOSED [4]",
+            "[3] SUPPORTED [1]",
+            "[1] OPPOSED [3]"
+        ]
+    }
+]

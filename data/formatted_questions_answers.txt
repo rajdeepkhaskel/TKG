@@ -1,0 +1,51 @@
+Timestamp: d2023-05-30T17:47:04
+Q: Who accused Ukraine of terrorist activity?
+A: Russian president Vladimir Putin.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What specific event did Putin reference as terrorist activity?
+A: The drone attack on Moscow.
+
+Timestamp: d2023-05-30T17:47:04
+Q: When did the drone attack on Moscow occur?
+A: Earlier on Tuesday.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What was the alleged target of the drone attack according to Putin?
+A: Civilian targets.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What measure did Putin announce in response to the drone attack?
+A: Boosting Moscow's air defenses.
+
+Timestamp: d2023-05-30T17:47:04
+Q: How did Putin describe the current performance of Moscow's air defenses?
+A: Satisfactory but with room for improvement.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What path did Putin claim Ukraine has chosen?
+A: The path of intimidation of Russian citizens.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What did Putin threaten in response to Ukraine's actions?
+A: Retaliation.
+
+Timestamp: February 2022
+Q: Who did Putin blame for unleashing the war?
+A: NATO expansion.
+
+Timestamp: After the collapse of the Soviet Union
+Q: What did Putin consider inevitable after the collapse of the Soviet Union?
+A: Competition between the Russian Federation and Ukraine.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What sentiment did Putin claim was created in Ukraine at the suggestion of the west?
+A: Anti-Russian sentiment.
+
+Timestamp: After the collapse of the Soviet Union
+Q: What broken promise did Putin mention?
+A: The promise not to expand NATO to the east.
+
+Timestamp: d2023-05-30T17:47:04
+Q: What was eventually promised to Ukraine according to Putin?
+A: Eventual NATO membership.
